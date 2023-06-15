@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
-* main - A program that prints exact text followed by a new line to the standart error
+* main - Entry point of C program
 *
 * Return: Always 1 (Success)
 */
