@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the program to complete the source code in order to print whether the number stored in the variable n is positive or negative.
+ * main - Entry point of the program to complete the source code.
  *
  * Return: All the time 0 (Success)
  */
