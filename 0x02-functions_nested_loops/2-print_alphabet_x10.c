@@ -4,7 +4,9 @@
 	/**
 	 * print_alphabet_10 - prints 10 times the alphabet lowercase
 	 * followed by a new line allways
+	 * Return: void
 	 */
+
 	void print_alphabet_10(void)
 	{
 		char ch;
