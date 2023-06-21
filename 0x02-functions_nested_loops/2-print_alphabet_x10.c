@@ -2,7 +2,7 @@
 
 
 	/**
-	 * print_alphabet_10 - prints 10 times the alphabet lowercase
+	 * print_alphabet_10 - This function prints the alphabet ten times.
 	 * followed by a new line allways
 	 * Return: void
 	 */
